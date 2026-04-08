@@ -1,7 +1,7 @@
 {
-  "url": "https://github.com/kristoff-it/ziggy",
   "semver": false,
   "parser_version": "4353b20ef2ac750e35c6d68e4eb2a07c2d7cf901",
   "location": "tree-sitter-ziggy-schema",
-  "lang": "ziggy_schema"
+  "lang": "ziggy_schema",
+  "url": "https://github.com/kristoff-it/ziggy"
 }
